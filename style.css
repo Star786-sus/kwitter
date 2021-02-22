@@ -6,12 +6,12 @@ html, body
 
 body
 {
-background-image: linear-gradient(to right top, #c18ee4, #a024d1, #310744, #1f053d, #000000);
+background-image: linear-gradient(to right top, #290144, #4d2b7a, #6e209b, #7217bd, #c28fe0);
 }
 
 .header
 {
-	color: white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  ;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
 }
 .header img
 {
@@ -31,7 +31,6 @@ background-image: linear-gradient(to right top, #c18ee4, #a024d1, #310744, #1f05
 #login_button
 {
 	width: 80%;border-radius: 15px;
-	color: #f096d2;
 }
 
 .room_name
